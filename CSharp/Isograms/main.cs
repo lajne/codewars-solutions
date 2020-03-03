@@ -20,3 +20,9 @@ public class Kata {
     return isIsogram;
   }
 }
+
+/*FIXME: 
+public static bool IsIsogram(string str) {
+    return str.ToLower().Distinct().Count()==str.Length;
+}
+*/
