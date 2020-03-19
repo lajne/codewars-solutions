@@ -5,4 +5,3 @@ cd CSharp
 mkdir -p "$name"
 cd "$name"
 touch main.cs
-touch info.md
